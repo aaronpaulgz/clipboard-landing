@@ -1,0 +1,106 @@
+.main_img {
+  padding: 48px 0 32px;
+}
+
+.main_title {
+  font-size: 2rem;
+  max-width: 400px;
+}
+
+.main_text {
+  font-size: 1rem;
+  max-width: 400px;
+}
+
+.features .features_title h2 {
+  width: 3600px;
+  max-width: 370px;
+  font-size: 1.8rem;
+}
+
+.features .features_title p {
+  font-size: 0.9rem;
+  width: 400px;
+  max-width: 400px;
+}
+
+.features .features_description img {
+  width: 360px;
+}
+
+.features .feature_cards {
+  width: 370px;
+  max-width: 370px;
+}
+
+.feature_card .card_title {
+  font-size: 1.4rem;
+}
+
+.feature_card .card_text {
+  font-size: 0.9rem;
+}
+
+.descriptions .descriptions_title h2 {
+  width: 400px;
+  max-width: 400px;
+  font-size: 1.8rem;
+}
+
+.descriptions .descriptions_title p {
+  width: 400px;
+  max-width: 400px;
+  font-size: 0.9rem;
+}
+
+.descriptions .descriptions_img img {
+  width: 360px;
+}
+
+.description_card img {
+  width: 42px;
+  height: 42px;
+}
+
+.description_card .card_title {
+  font-size: 1.3rem;
+}
+
+.description_card .card_text {
+  font-size: 0.9rem;
+}
+
+.social_proof {
+  width: 400px;
+}
+
+.social_proof img {
+  width: 200px;
+  margin: 0 auto 56px;
+}
+
+.device_description h2 {
+  width: 400px;
+  max-width: 400px;
+  margin: 0 auto;
+  font-size: 2rem;
+}
+
+.device_description p {
+  width: 400px;
+  max-width: 400px;
+  margin: 24px auto 0;
+  font-size: 0.9rem;
+  line-height: 1.2rem;
+  color: var(--Grayish-Blue);
+}
+
+.footer img {
+  width: 56px;
+  margin: 0 0 48px 0;
+}
+
+.footer .footer_rrss img {
+  width: 42px;
+  height: 42px;
+}
